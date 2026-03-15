@@ -13,7 +13,7 @@
    ${user.firstName}
    ${user.lastName}
    <br/>
-   <c:out value="First Name: ${user.getFirstName()}"></c:out>
+   <c:out value="My First Name : ${user.getFirstName()}"></c:out>
    
 </body>
 </html>
